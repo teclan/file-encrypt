@@ -1,0 +1,48 @@
+F:\C#\removable device\removable device\bin\Debug\removable device.exe.config
+F:\C#\removable device\removable device\bin\Debug\removable device.exe
+F:\C#\removable device\removable device\bin\Debug\removable device.pdb
+F:\C#\removable device\removable device\obj\Debug\removable_device.Form1.resources
+F:\C#\removable device\removable device\obj\Debug\removable_device.Properties.Resources.resources
+F:\C#\removable device\removable device\obj\Debug\removable device.csproj.GenerateResource.Cache
+F:\C#\removable device\removable device\obj\Debug\removable device.exe
+F:\C#\removable device\removable device\obj\Debug\removable device.pdb
+C:\Users\Jem\Desktop\removable device\removable device\bin\Debug\removable device.exe.config
+C:\Users\Jem\Desktop\removable device\removable device\obj\Debug\removable device.exe
+C:\Users\Jem\Desktop\removable device\removable device\obj\Debug\removable device.pdb
+C:\Users\Jem\Desktop\removable device\removable device\obj\Debug\removable_device.Form1.resources
+C:\Users\Jem\Desktop\removable device\removable device\obj\Debug\removable_device.Properties.Resources.resources
+C:\Users\Jem\Desktop\removable device\removable device\obj\Debug\removable device.csproj.GenerateResource.Cache
+C:\Users\Jem\Desktop\removable device\removable device\bin\Debug\removable device.exe
+C:\Users\Jem\Desktop\removable device\removable device\bin\Debug\removable device.pdb
+C:\Users\Jem\Desktop\removable device\removable device\obj\Debug\removable device.csprojResolveAssemblyReference.cache
+C:\Users\Binjan\Desktop\DeskTop\removable device - 副本\removable device\bin\Debug\removable device.exe.config
+C:\Users\Binjan\Desktop\DeskTop\removable device - 副本\removable device\obj\Debug\removable device.exe
+C:\Users\Binjan\Desktop\DeskTop\removable device - 副本\removable device\obj\Debug\removable device.pdb
+C:\Users\Binjan\Desktop\DeskTop\removable device - 副本\removable device\bin\Debug\removable device.exe
+C:\Users\Binjan\Desktop\DeskTop\removable device - 副本\removable device\bin\Debug\removable device.pdb
+C:\Users\Binjan\Desktop\DeskTop\removable device - 副本\removable device\obj\Debug\removable_device.Form1.resources
+C:\Users\Binjan\Desktop\DeskTop\removable device - 副本\removable device\obj\Debug\removable_device.Properties.Resources.resources
+C:\Users\Binjan\Desktop\DeskTop\removable device - 副本\removable device\obj\Debug\removable device.csproj.GenerateResource.Cache
+C:\Users\Binjan\Desktop\文件加解密\removable device\bin\Debug\removable device.exe.config
+C:\Users\Binjan\Desktop\文件加解密\removable device\obj\Debug\removable device.exe
+C:\Users\Binjan\Desktop\文件加解密\removable device\obj\Debug\removable device.pdb
+C:\Users\BinJan\Desktop\文件加解密\removable device\obj\Debug\removable_device.Form1.resources
+C:\Users\BinJan\Desktop\文件加解密\removable device\obj\Debug\removable_device.Properties.Resources.resources
+C:\Users\BinJan\Desktop\文件加解密\removable device\obj\Debug\removable device.csproj.GenerateResource.Cache
+C:\Users\BinJan\Desktop\文件加解密\removable device\bin\Debug\removable device.exe
+C:\Users\BinJan\Desktop\文件加解密\removable device\bin\Debug\removable device.pdb
+C:\Users\BinJan\Desktop\文件加解密\removable device\obj\Debug\removable_device.帮助.resources
+C:\Users\BinJan\Desktop\文件加解密\removable device\obj\Debug\removable device.csprojResolveAssemblyReference.cache
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\bin\Debug\removable device.exe.config
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\obj\Debug\removable device.exe
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\obj\Debug\removable device.pdb
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\bin\Debug\removable device.exe
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\bin\Debug\removable device.pdb
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\obj\Debug\removable device.csprojResolveAssemblyReference.cache
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\obj\Debug\removable_device.Form1.resources
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\obj\Debug\removable_device.Properties.Resources.resources
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\obj\Debug\removable_device.帮助.resources
+C:\Users\BinJan\Desktop\文档\文件加解密\removable device\obj\Debug\removable device.csproj.GenerateResource.Cache
+C:\Users\Jeton\Desktop\文件加解密1.2.1\文件加解密\removable device\bin\Debug\removable device.exe.config
+C:\Users\Jeton\Desktop\文件加解密1.2.1\文件加解密\removable device\obj\Debug\removable device.exe
+C:\Users\Jeton\Desktop\文件加解密1.2.1\文件加解密\removable device\obj\Debug\removable device.pdb
